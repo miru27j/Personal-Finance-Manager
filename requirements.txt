@@ -1,0 +1,12 @@
+# Personal Finance Manager - Python Requirements
+
+# This application uses only Python standard library
+# No external dependencies required!
+
+# Optional: For enhanced features (not required for basic functionality)
+# pandas>=1.5.0  # For advanced data analysis
+# matplotlib>=3.6.0  # For graphical charts
+# colorama>=0.4.6  # For colored terminal output
+
+# To install optional packages (if needed):
+# pip install pandas matplotlib colorama
